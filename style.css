@@ -483,3 +483,6 @@ border-bottom: 5px solid var(--tertiary-color);
   margin-right: 1.5rem;
   
 }
+.left-big{
+width: 100%;
+}
