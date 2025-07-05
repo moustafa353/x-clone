@@ -422,6 +422,22 @@ border-bottom: 5px solid var(--tertiary-color);
     font-size: 1.2rem;     
         
   }
+    .container-1{
+  display: flex;
+  gap: 1rem;
+}
+.right-small{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-right: 1.5rem;
+  
+}
+.left-big{
+width: 100%;
+}
+
 }
 
 
